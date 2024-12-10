@@ -43,7 +43,6 @@ The IEEE-CIS Fraud Detection dataset contains:
 
 4. **Model Development:**
    - Train and evaluate tree-based models like LightGBM, XGBoost, Random Forest, and CatBoost.
-   - Use class imbalance techniques (e.g., SMOTE and class weighting).
    - Optimize hyperparameters for improved performance.
 
 5. **Evaluation Metrics:**
